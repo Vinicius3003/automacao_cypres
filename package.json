@@ -1,0 +1,17 @@
+{
+  "name": "projetos",
+  "version": "0.0.1",
+  "description": "Testes serverest",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "author": "Vinicius Cardoso",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
